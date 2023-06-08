@@ -27,7 +27,7 @@ To use the SQL queries, you will need access to a SQL database or environment wh
 
 ## Tableau Dashboard
 
-Access the Tableau dashboard [here](https://public.tableau.com/app/profile/nour5844/viz/CovidDashboard_16848566547550/Dashboard1).
+Access the Tableau dashboard [here](https://public.tableau.com/app/profile/nour5844/viz/COVID-19InfectionsRates/Dashboard1).
 
 ### Deployment
 
